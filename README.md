@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/1ppabHJ_d.webp?maxwidth=760&fidelity=grand">
+
 # FTZN: 2D Football Online ⚽
 
 ## Introduction 🥅
