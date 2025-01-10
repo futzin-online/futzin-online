@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/1ppabHJ_d.webp?maxwidth=760&fidelity=grand">
+<img src="https://i.imgur.com/1ppabHJ_d.webp?maxwidth=760&fidelity=grand" width=400>
 
 # FTZN: 2D Football Online ⚽
 
